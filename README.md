@@ -1,4 +1,4 @@
-# FitPanHub - Trainers & Users Platfrom
+# FitPlanHub - Trainers & Users Platfrom
 
 ## Project Overview
 FitPlanHub is a full-stack application designed to connect certified fitness trainers with users.
