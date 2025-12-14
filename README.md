@@ -4,7 +4,7 @@
 FitPlanHub is a full-stack application designed to connect certified fitness trainers with users.
 Trainers can create and manage fitness plans, while users can browse plans, follow trainers, and subscribe to paid plans.
 
-This project mainly focuses on **backend logic, API design, authentication flow, and database realtionships**.
+This project mainly focuses on **backend logic, API design, authentication flow, and database relationship**.
 
 ---
 
