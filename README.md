@@ -106,12 +106,12 @@ FitPlanHub/
  - GET  /api/users/feed
 
  ## Notes
- - Payemnt is simulated.
- - Role-based access is handled at route level.
- - Project is designed for learning backend architecture    and API development.
+ - Payemnt is simulated
+ - Role-based access is handled at route level
+ - Project is designed for learning backend architecture    and API development
 
 ## Author
-Developed as a aprt of a backend development task to demonstrate real-world application logic and database realtionship.
+Developed as a aprt of a backend development task to demonstrate real-world application logic and database realtionship
  
  
 
