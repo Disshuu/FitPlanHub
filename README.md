@@ -66,20 +66,20 @@ After login, users can:
 
 ## Project Strcuture 
 FitPlanHub/
-|
- |-- backend/
- | |--config/
- | |--controllers/
- | |--models/
- | |--routed/
- | |--middlewares/
- | |_-server.js
- |
- |--frontend/
- | |--src/
- | |--public/
- |
- |__README.md
+│
+├── backend/
+│ ├── config/
+│ ├── controllers/
+│ ├── models/
+│ ├── routes/
+│ ├── middlewares/
+│ └── server.js
+│
+├── frontend/
+│ ├── src/
+│ └── public/
+│
+└── README.md
 
  ## How to Run Backend
  1. Install dependencies ''' bash   npm install
