@@ -48,7 +48,7 @@ Users can:
 
 ---
 
-### Personalized Feed
+### 6. Personalized Feed
 After login, users can:
 - See plans created by trainers they follow
 - View plans they have subscribed to
@@ -111,7 +111,7 @@ FitPlanHub/
  - Project is designed for learning backend architecture    and API development
 
 ## Author
-Developed as a aprt of a backend development task to demonstrate real-world application logic and database realtionship
+Developed as a part of a backend development task to demonstrate real-world application logic and database realtionship
  
  
 
