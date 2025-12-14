@@ -1,4 +1,4 @@
-# FitPlanHub - Trainers & Users Platfrom
+# FitPlanHub - Trainers & Users Platform
 
 ## Project Overview
 FitPlanHub is a full-stack application designed to connect certified fitness trainers with users.
@@ -52,7 +52,7 @@ Users can:
 After login, users can:
 - See plans created by trainers they follow
 - View plans they have subscribed to
-- Get trainer inforamtion with each plan
+- Get trainer information with each plan
 
 ---
 
@@ -60,11 +60,11 @@ After login, users can:
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB, Mongoose
 - **Authentication:** JWT
-- **Frontend:** React ( basic strcuture)
+- **Frontend:** React ( basic structure)
 
 ---
 
-## Project Strcuture 
+## Project Structure
 FitPlanHub/
 │
 ├── backend/
@@ -106,12 +106,12 @@ FitPlanHub/
  - GET  /api/users/feed
 
  ## Notes
- - Payemnt is simulated
+ - Payment is simulated
  - Role-based access is handled at route level
- - Project is designed for learning backend architecture    and API development
+ - Project is designed for learning backend architecture and API development
 
 ## Author
-Developed as a part of a backend development task to demonstrate real-world application logic and database realtionship
+Developed as a part of a backend development task to demonstrate real-world application logic and database relationship.
  
  
 
