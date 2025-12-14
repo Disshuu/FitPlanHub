@@ -111,7 +111,7 @@ FitPlanHub/
  - Project is designed for learning backend architecture and API development
 
 ## Author
-Developed as a part of a backend development task to demonstrate real-world application logic and database relationship.
+Developed as part of a backend development task to demonstrate real-world application logic and database relationship.
  
  
 
